@@ -5,6 +5,8 @@ Name: [Robert Tim Benson]
 Major / program: DSA 
 
 Favorite dataset or industry interest:
+Industry Interest: Industrial Process Control Analytics
+Favorite Dataset: IRIS   
 
 One reason I am studying analytics:
 Added my name to intro.txt
