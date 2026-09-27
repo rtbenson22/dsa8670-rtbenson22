@@ -70,6 +70,17 @@ By the end of Week 5, you should be able to:
 
 ---
 
+
+## Version Control 
+
+- Version control matters to provide integration of various edits without conflicts, it provides trace-ability of
+  change to allow reversing logic or code when needed, and gives a history of the project development. 
+  Per Chapter 3 reading of Github for dummies, it provides an ownership of who made the change. As a person whom
+  the tittle of "dummy" fits it was a appropriate read. Question who is reading this SMILE. 
+  
+
+---
+
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
