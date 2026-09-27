@@ -10,3 +10,4 @@ Favorite Dataset: IRIS
 
 One reason I am studying analytics: Studying DSA for a retirement plan!
 Added my name to intro.txt
+Added four commits to the project per week 5 md
